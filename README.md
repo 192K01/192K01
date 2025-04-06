@@ -2,7 +2,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ava9797)](https://solved.ac/ava9797)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=192K01&layout=compact&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=192K01&layout=Demo&theme=onedark)
 
 <!--
 **192K01/192K01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
