@@ -2,7 +2,7 @@
 ## Develop Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=192K01&layout=donut&theme=onedark&repo=all)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=192K01&show_icons=true&theme=radical)-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ava9797)](https://solved.ac/ava9797)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ava9797)](https://solved.ac/profile/ava9797)
 ## Projects
 <!--<a href="https://github.com/IceCream0910/kw-klas-plus" target="_blank" width="100%"><img src="https://i.imgur.com/DVVSQAk.jpg"></a>
 <a href="https://github.com/IceCream0910/kw-klas-plus-webview" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
