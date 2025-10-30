@@ -6,7 +6,7 @@
 ### Projects
 <a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img alt="192K01_capstoneDesign_TeamWD 그림" src="https://github.com/user-attachments/assets/11bff6db-139d-4d38-8f16-423644cc265c" /></a>
 
-<a href="https://github.com/192K01/" target="_blank" width="100%"><img alt="192K01_2024_Hanium_ICT_Metoring" src="https://github.com/user-attachments/assets/021cdcdc-c073-46cc-8d27-e3c6c7bfbefc" /></a>
+<a href="https://github.com/192K01/" target="_blank" width="100%"><img alt="192K01_2024_Hanium_ICT_Metoring 그림" src="https://github.com/user-attachments/assets/8849ebce-2a85-4959-b184-46dccf349010" /></a>
 
 ### Experiences
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
