@@ -4,18 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ava9797)](https://solved.ac/profile/ava9797)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=192K01&show_icons=true&theme=radical)-->
 ### Projects
-<!--<a href="https://github.com/IceCream0910/kw-klas-plus" target="_blank" width="100%"><img src="https://i.imgur.com/DVVSQAk.jpg"></a>
-<a href="https://github.com/IceCream0910/kw-klas-plus-webview" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
-
-<a href="https://github.com/IceCream0910/radio-web" target="_blank" width="100%"><img src="https://i.imgur.com/Onsm0av.png"></a>
-
-<a href="https://github.com/IceCream0910/ssoak" target="_blank" width="100%"><img src="https://i.imgur.com/W8MM4y1.png"></a>
-
-<a href="https://github.com/IceCream0910/coronacoc" target="_blank" width="100%"><img src="https://i.imgur.com/lx4FOgK.png"></a>
--->
-<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img src=""></a>
-<a href="https://github.com/192K01/2024_Hanium_ICTMentoring_project" target="_blank" width="100%"><img src=""></a>
-
+<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img alt="192K01_capstoneDesign_TeamWD 그림" src="https://github.com/user-attachments/assets/5fd09ea1-2f66-451b-970f-7e69349d6625" /></a>
 
 ### Experiences
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
