@@ -4,8 +4,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ava9797)](https://solved.ac/profile/ava9797)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=192K01&show_icons=true&theme=radical)-->
 ### Projects
-<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img alt="192K01_capstoneDesign_TeamWD 그림" src="https://github.com/user-attachments/assets/24ce164a-df9b-485c-92cd-230676eb6323" />
-</a>
+<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img alt="192K01_capstoneDesign_TeamWD 그림" src="https://github.com/user-attachments/assets/11bff6db-139d-4d38-8f16-423644cc265c" /></a>
+
+<a href="https://github.com/192K01/" target="_blank" width="100%"><img alt="192K01_capstoneDesign_TeamWD 그림" src="https://github.com/user-attachments/assets/11bff6db-139d-4d38-8f16-423644cc265c" /></a>
 
 ### Experiences
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
