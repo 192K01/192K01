@@ -13,6 +13,10 @@
 
 <a href="https://github.com/IceCream0910/coronacoc" target="_blank" width="100%"><img src="https://i.imgur.com/lx4FOgK.png"></a>
 -->
+<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
+<a href="https://github.com/192K01/2024_Hanium_ICTMentoring_project" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
+
+
 ### Experiences
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
