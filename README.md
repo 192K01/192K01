@@ -13,8 +13,8 @@
 
 <a href="https://github.com/IceCream0910/coronacoc" target="_blank" width="100%"><img src="https://i.imgur.com/lx4FOgK.png"></a>
 -->
-<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
-<a href="https://github.com/192K01/2024_Hanium_ICTMentoring_project" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
+<a href="https://github.com/192K01/capstoneDesign_TeamWD" target="_blank" width="100%"><img src=""></a>
+<a href="https://github.com/192K01/2024_Hanium_ICTMentoring_project" target="_blank" width="100%"><img src=""></a>
 
 
 ### Experiences
